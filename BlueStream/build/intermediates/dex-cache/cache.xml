@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Hun/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.6/ee373b6d0d6ea36a0a9b0cbabaf16be7e7fc3e30/otto-1.3.6.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ee373b6d0d6ea36a0a9b0cbabaf16be7e7fc3e30">
+        <dex dex="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/pre-dexed/debug/otto-1.3.6-b32d1a6bab503003907b94e856de1d2c732497c4.jar" />
+    </item>
+    <item
+        jar="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/pre-dexed/debug/classes-d6e0abfec205d432370fe18799e25f2c1536e3e6.jar" />
+    </item>
+    <item
+        jar="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/pre-dexed/debug/classes-8993253d37839ad889017999213dbc23de54dd03.jar" />
+    </item>
+    <item
+        jar="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/pre-dexed/debug/classes-73b050dbce8c87d27b42fbab55712bbc60dbd29f.jar" />
+    </item>
+    <item
+        jar="/Users/Hun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-32ef385dd9c4982557854fad2fe9dc2c5e6abd93.jar" />
+    </item>
+    <item
+        jar="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/pre-dexed/debug/classes-253c21c50ddaf8d9e6c144d137bcb2cd55cdbb6a.jar" />
+    </item>
+    <item
+        jar="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/pre-dexed/debug/classes-6aa9386b7f449d81a71090a4205a6d529d139fb4.jar" />
+    </item>
+    <item
+        jar="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-eac18f464b8b1648538207c52efb7b1590ae87fc.jar" />
+    </item>
+    <item
+        jar="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="/Users/Hun/Documents/Carleton/Fall 2015/COMP 3203/Project/BlueStream/app/build/intermediates/pre-dexed/debug/classes-805e301dc91e5fb96e3e4d967efde1cdf2681694.jar" />
+    </item>
+
+</items>
