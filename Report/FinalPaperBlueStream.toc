@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}Context}{3}
+\contentsline {subsection}{\numberline {1.2}Problem Statement}{3}
+\contentsline {subsection}{\numberline {1.3}Result}{4}
+\contentsline {subsection}{\numberline {1.4}Outline}{5}
+\contentsline {section}{\numberline {2}Background}{5}
+\contentsline {subsection}{\numberline {2.1}Bluetooth Protocol Stack}{7}
+\contentsline {subsubsection}{\numberline {2.1.1}Radio Layer}{8}
+\contentsline {subsubsection}{\numberline {2.1.2}Baseband Layer}{9}
+\contentsline {subsubsection}{\numberline {2.1.3}Link Controller Layer}{10}
+\contentsline {subsubsection}{\numberline {2.1.4}Link Manager (LM) Layer}{10}
+\contentsline {subsubsection}{\numberline {2.1.5}Host Controller Interface (HCI) Layer}{11}
+\contentsline {subsubsection}{\numberline {2.1.6}Logical Link Control and Adaptation (L2CAP) Layer}{12}
+\contentsline {subsubsection}{\numberline {2.1.7}Radio Frequency Communication (RFCOMM) Layer}{13}
+\contentsline {subsubsection}{\numberline {2.1.8}Service Discovery Protocol (SDP) Layer}{14}
+\contentsline {subsubsection}{\numberline {2.1.9}Application Layer}{14}
+\contentsline {subsection}{\numberline {2.2}Motion-JPEG Video Compression Format}{15}
+\contentsline {section}{\numberline {3}Result}{15}
+\contentsline {subsection}{\numberline {3.1}Design and Architecture}{16}
+\contentsline {subsection}{\numberline {3.2}Stream Algorithm}{18}
+\contentsline {subsection}{\numberline {3.3}Performance Benchmarks}{19}
+\contentsline {section}{\numberline {4}Evaluation}{22}
+\contentsline {subsection}{\numberline {4.1}The Possibility Challenge}{22}
+\contentsline {subsection}{\numberline {4.2}Our Data}{23}
+\contentsline {subsection}{\numberline {4.3}Environmental Factors}{25}
+\contentsline {subsection}{\numberline {4.4}Usability Survey}{28}
+\contentsline {section}{\numberline {5}Conclusion}{29}
+\contentsline {section}{\numberline {6}Contributions of Team Members}{31}
+\contentsline {section}{Appendices}{33}
+\contentsline {section}{\numberline {A}Usability Questionnaire}{33}
+\contentsline {section}{\numberline {B}Statistical Tests}{34}
+\contentsline {subsection}{\numberline {B.1}FPS Processed in Relation to Quality Ratio in Device A for a 30 Second Period}{34}
+\contentsline {subsection}{\numberline {B.2}FPS Processed in Relation to Distance (between devices) for Device A for 30 Second Period}{36}
