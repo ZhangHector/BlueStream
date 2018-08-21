@@ -26,8 +26,8 @@ Screenshots
 -------------
 
 <img src="Report/BlueStream.jpg" height="600" alt="Screenshot"/> 
-<img src="Report/Figures/Figure1.png" height="200" alt="Screenshot"/><img src="Report/Figures/Figure6.png" height="200" alt="Screenshot"/><img src="Report/Figures/Figure8.png" height="200" alt="Screenshot"/> 
-
+<img src="Report/Figures/Figure1.png" width="200" alt="Screenshot"/><img src="Report/Figures/Figure8.png" width="300" alt="Screenshot"/> 
+<img src="Report/Figures/Figure6.png" width="600" alt="Screenshot"/>
 Getting Started
 ---------------
 
