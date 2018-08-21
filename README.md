@@ -25,8 +25,10 @@ eliminating the need for line of sight communication.
 Screenshots
 -------------
 
-<img src="Report/BlueStream.jpg" height="800" alt="Screenshot"/> 
-<img src="Report/Figures/Figure1.png" height="400" alt="Screenshot"/> <img src="Report/Figures/Figure6.png" height="400" alt="Screenshot"/> <img src="Report/Figures/Figure18.png" height="400" alt="Screenshot"/> 
+<img src="Report/BlueStream.jpg" height="600" alt="Screenshot"/> 
+<img src="Report/Figures/Figure1.png" height="300" alt="Screenshot"/>
+<img src="Report/Figures/Figure6.png" height="300" alt="Screenshot"/>
+<img src="Report/Figures/Figure8.png" height="300" alt="Screenshot"/> 
 
 Getting Started
 ---------------
